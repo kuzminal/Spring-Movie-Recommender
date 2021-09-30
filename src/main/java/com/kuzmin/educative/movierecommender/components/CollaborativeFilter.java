@@ -1,4 +1,4 @@
-package com.kuzmin.educative.movierecommender;
+package com.kuzmin.educative.movierecommender.components;
 
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.beans.factory.config.ConfigurableBeanFactory;

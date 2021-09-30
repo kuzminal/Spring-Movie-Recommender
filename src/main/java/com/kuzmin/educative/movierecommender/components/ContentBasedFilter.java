@@ -1,5 +1,6 @@
-package com.kuzmin.educative.movierecommender;
+package com.kuzmin.educative.movierecommender.components;
 
+import com.kuzmin.educative.movierecommender.repository.Movie;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
